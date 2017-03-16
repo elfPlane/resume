@@ -7,7 +7,6 @@ e mali : elfplane33@gmail.com
 
 ![Image of TF](https://wookayin.github.io/tensorflow-talk-debugging/images/tensorflow-logo.png)
 
-My interest is about VR porgramming and Neural network(lkie Google Tensorflow), and fantasy things.
+My interest is about VR porgramming and deep learning(like Google Tensorflow), and fantasy things.
 I studied programming language with C, C++, C# ,java, HTML
-
 
